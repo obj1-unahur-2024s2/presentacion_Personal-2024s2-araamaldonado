@@ -3,7 +3,7 @@
 ## Yo soy...
 # Araceli Maldonado :sunglasses:
 
-![Miku Bailando](WMDv.gif)
+![Miku Bailando](assets/WMDv.gif)
 
 Holis! ¿Que tal? 
 Estoy cursando mi cuarto cuatrimestre de la carrera, y ojalá recibirme el año que viene :pray:
@@ -18,6 +18,6 @@ Quiero poder aprender mucho mas de la programación. Realmente tiene tantas cosa
 
 Actualmente estoy trabajando en un local de ropa hace 2 años, pero realmente me gustaria poder cambiar de trabajo aunque la cosa esta dificil, pero obvio que hay que seguir buscando y avanzar mientras tanto en la carrera sin dejar de aprender y meterle mucho a la carrera.
 
-![Yo](ara.jpg)
+![Yo](assets/ara.jpg)
 
 - Espero podamos tener un cuatrimestre buenisimo 🤍 Muchos exitos a todos.
