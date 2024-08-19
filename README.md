@@ -16,7 +16,7 @@ Otro hobby que tengo es mirar anime, mi favorito en este momento es One Piece, s
 
 Quiero poder aprender mucho mas de la programación. Realmente tiene tantas cosas que ver que aun me cuesta decidir a que lenguaje me gustaria dedicarme, lo unico claro hasta ahora es que probablemente voy a adentrarme mucho mas al Back End.
 
-Actualmente estoy trabajando en un local de ropa hace 2 años, pero realmente me gustaria poder cambiar de trabajo aunque la cosa esta dificil, pero obvio que hay que seguir buscando y avanzar mientras tanto en la carrera sin dejar obviamente de cuando puedo aprender y meterle mucho a la carrera.
+Actualmente estoy trabajando en un local de ropa hace 2 años, pero realmente me gustaria poder cambiar de trabajo aunque la cosa esta dificil, pero obvio que hay que seguir buscando y avanzar mientras tanto en la carrera sin dejar de aprender y meterle mucho a la carrera.
 
 ![Yo](ara.jpg)
 
