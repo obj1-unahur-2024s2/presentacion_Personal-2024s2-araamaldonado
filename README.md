@@ -1,35 +1,20 @@
 ![Logo UNAHUR](./assets/UNAHUR.png)
 
-Bienvenidxs a
-# Programación con objetos I
+## Yo soy...
+# Araceli Maldonado :sunglasses:
 
-En esta materia aprenderán sobre la famosa POO _(OOP en inglés)_, un paradigma que propone como base **objetos** que tienen un **estado** y **comportamiento**.
-Para ello usaremos como herramienta el lenguaje Wollok.
+![Miku Bailando](WMDv.gif)
 
-```
-object programacionConObjetos { 
-    method saludar() { 
-        return  "Bienvenidxs!" 
-    }
-}
-```
+Holis! ¿Que tal? 
+Estoy cursando mi cuarto cuatrimestre de la carrera, y ojalá recibirme el año que viene :pray:
+Inicie la tecnicatura en programacion decidiendome cambiar la carrera de la licenciatura en kinesiologia
+cuando estaba cerca de la fecha, real no me arrepiento de haber tomado la decisión.
 
-## Datos de la cursada :book:
-* Modalidad Mixta
-* Horario comisión **turno noche**: Martes 18hs.
-* Horario comisión **turno mañana**: Miercoles 8hs.
-* Horario **ambas comisión**: Sabados 10hs.
-* Este cuatrimestre los profesores somos Gerardo González, Lucas Spigariol y Hernán Coniglio
-* Además nos acompañan como colaboradores Valentino Chiappani, Manuel Nuñez, Tobias Di Salvo, Enzo Alarcón, Cristian Gonzalez, Gabriel Ledezma, Maia Barrionuevo y Gabriel Álvarez.
+Me gusta mucho jugar principalmente al LOL y quzias ya mas otros juegos de modo historia o mundo abierto, de esa indole
+por ejemplo podria ser el Genshin Impact o ZZZ que jugue ultimamente.
+Otro hobby que tengo es mirar anime, mi favorito en este momento es One Piece, si no mas romantico quizas sería Ao Haru Ride.
 
-## Links importantes :monocle_face:
-- [x] [Página principal](https://obj1-unahur.github.io/) de la materia (no olviden entrar seguido!) 
-- [x] [Cronograma](https://docs.google.com/spreadsheets/d/1my_Oo31XGP7EE2kQ7otHWRg_LeoMR48rmhF7LiMkbDY/edit?usp=sharing) de clases.
-- [x] [Matricularse](https://discord.com/channels/656909199510601744/1088949265306501130) y ver el canal de Discord.
+Quiero poder aprender mucho mas de la programación. Realmente tiene tantas cosas que ver que aun me cuesta decidir a que lenguaje me gustaria dedicarme, lo unico claro hasta ahora es que probablemente voy a adentrarme mucho mas al Back End.
 
-### Referencias Markdown 
-* [Wikipedia](https://es.wikipedia.org/wiki/Markdown)
+Actualmente estoy trabajando en un local de ropa hace 2 años, pero realmente me gustaria poder cambiar de trabajo aunque la cosa esta dificil, pero obvio que hay que seguir buscando y avanzar mientras tanto en la carrera sin dejar obviamente de cuando puedo aprender y meterle mucho a la carrera.
 
-* [Guía Ràpida](https://greg.schueler.us/doc/markdown.txt) de la sintaxis _(en inglés)_
-
-* [Emojis!](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md) :sunglasses:
